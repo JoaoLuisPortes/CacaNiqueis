@@ -60,7 +60,7 @@ public class CacaNiqueis {
 	}
 	
 	static void identificarVitoria(int[][] niqueis, double valorAposta, int multiplicador) {
-		if (niqueis[1][0] == 0 && niqueis[1][1] == 0 && niqueis[1][2] == 0){
+		if (niqueis[1][0] == niqueis[1][1] && niqueis[1][1] == niqueis[1][2]){
 			double valorGanho = valorAposta * multiplicador;
 			System.out.println("\nParabéns! Você ganhou: " + valorGanho + "$");
 		}else{
