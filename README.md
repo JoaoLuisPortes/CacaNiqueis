@@ -4,7 +4,7 @@ Este projeto é uma simulação de uma máquina caça-níqueis simples desenvolv
 uma sequência de três numeros na linha do meio para vencer, multiplicando o valor da aposta de acordo com o multiplicador
 escolhido.
 
-<h2>Funcionalidades</h2>
+<h2>Funcionalidades 🛠️</h2>
 
 <b>Aposta Personalizada:</b> O jogador pode inserir o valor que deseja apostar. <br>
 <b>Multiplicadores:</b> jogador pode escolher um multiplicador entre 2 e 5. <br>
@@ -12,7 +12,7 @@ escolhido.
 <b>Condição de Vitória:</b> jogador ganha se conseguir uma sequência de três numeros na linha central, multiplicando o valor apostado pelo multiplicador. <br>
 <b>Interface Simples:</b> jogo utiliza a interface de linha de comando para interação. <br>
 
-<h2>Como Jogar</h2>
+<h2>Como Jogar 🎮</h2>
 
 <ol>
     <li>Execute o programa.</li>
@@ -23,12 +23,12 @@ escolhido.
     <li>Após a rodada, você pode optar por jogar novamente ou sair.</li>
 </ol>
 
-<h2>Exemplo de Uso</h2>
+<h2>Exemplo de Uso 📜</h2>
 
 <img src="https://i.imgur.com/D4k0mEl.png">
 <img src="https://i.imgur.com/eHVJQ7a.png">
 
-<h2>Possiveis Melhorias</h2>
+<h2>Possiveis Melhorias 🔧</h2>
 
 <ul>
     <li>Adicionar mais linhas de slots.</li>
