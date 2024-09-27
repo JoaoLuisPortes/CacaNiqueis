@@ -10,7 +10,7 @@ public class CacaNiqueis {
 	public static void main (String[] args) {
 		Scanner leia = new Scanner(System.in);
 		System.out.println("\t<---Máquina Caça-Níqueis--->");
-		System.out.println("Para ganhar, é necessário uma sequência de três 0s");
+		System.out.println("Para ganhar, é necessário uma sequência de três numeros igual no centro");
 		char reiniciar;
 		do{
 			iniciarJogada();
